@@ -1,7 +1,7 @@
 import argparse
 import os
 import pandas as pd
-from base_scrapper import BaseScrapper
+from BaseScrapper import BaseScrapper
 
 class GetPhotonicsData(BaseScrapper):
     
